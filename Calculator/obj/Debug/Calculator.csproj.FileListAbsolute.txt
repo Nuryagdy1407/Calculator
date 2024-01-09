@@ -1,0 +1,18 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Programms\Lectures\C#\Methods\174.Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
